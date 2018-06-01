@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 2Git is free software distributed under the GPL.
 3Git has a mutable index called stage.
 Git tracks changes.
+creating a new branch is very quick !!!!!!!!!!!
